@@ -1,6 +1,6 @@
 {
-    "short_name": "Poker",
-    "name": "Poker",
+    "short_name": "DD Poker",
+    "name": "Dedham Dads Poker",
     "icons": [
         {
             "src": "icons/poker-chip.svg",
@@ -13,8 +13,8 @@
             "sizes": "180x180"
         }
     ],
-    "start_url": "index.html",
-    "background_color": "#2e426b",
+    "start_url": "/poker/play/",
+    "background_color": "#073d20",
     "display": "standalone",
-    "theme_color": "#2e426b"
+    "theme_color": "#0d4d2c"
 }
